@@ -1,12 +1,12 @@
 {
-  "name": "Avícola San Juan",
-  "short_name": "San Juan",
+  "name": "Agropecuaria LA FORTALEZA",
+  "short_name": "Fortaleza",
   "lang": "es",
-  "start_url": "/sanjuan/",
-  "scope": "/sanjuan/",
+  "start_url": "/fortaleza/",
+  "scope": "/fortaleza/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#0d47a1",
+  "background_color": "#0f172a",
+  "theme_color": "#1e3a5f",
   "orientation": "portrait",
   "icons": [
     {
